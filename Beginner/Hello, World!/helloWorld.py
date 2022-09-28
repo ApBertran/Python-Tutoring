@@ -5,7 +5,7 @@ def main():
 
 def harder():
     # input() will allow the user to enter any data, and apply it to a variable "name"
-    name = input("What is your name?\n")
+    name = input("What is your name?\n") # Note that '\n' will start a new line, like hitting enter in a text file
 
     # Here are two methods to print strings with variables
     print(f"Hello, {name}!")
