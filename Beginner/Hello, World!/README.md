@@ -10,3 +10,5 @@ Example:
 ```
 Hello, Sherlock!
 ```
+
+A completed version of the code required to do this is found in helloWorld.py
